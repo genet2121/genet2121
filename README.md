@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genet2121&label=Profile%20views&color=0e75b6&style=flat" alt="genet2121" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://genet-site.netlify.app/](https://genet-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://protifilog.netify.app/](http://protifilog.netify.app/)
 
 - 📫 How to reach me **gtesfaye2127@gmaiil.com**
 
